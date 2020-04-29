@@ -4,5 +4,5 @@ This repo contains SQL codes that interact with multiple databases which was cre
 Manager Studio.
 
 __Technologies Used__  
-SQL
-SQL Server Manager Studio
+SQL  
+SQL Server Manager Studio  
